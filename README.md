@@ -31,9 +31,9 @@ resistors.
 
 ## Don't forget to edit the CMakeList section
 
-set(EXTRA_COMPONENT_DIRS "C:/Users/Haydar/Desktop/components/sht3x" #replace with the location where the libraries are stored
+set(EXTRA_COMPONENT_DIRS "C:/Users/Haydar/Desktop/components/sht3x" 
 "C:/Users/Haydar/Desktop/components/i2cdev" 
-"C:/Users/Haydar/ Desktop/components/esp_idf_lib_helpers" ) 
+"C:/Users/Haydar/ Desktop/components/esp_idf_lib_helpers" ) #replace with the location where the libraries are stored
 
 ## Example Output
 ```bash
