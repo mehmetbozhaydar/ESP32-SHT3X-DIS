@@ -1,4 +1,4 @@
-# Example for `SHT3X` driver
+# Example SHT3X with ESP32 (ESP-IDF)
 
 ## What it does
 
